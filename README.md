@@ -24,6 +24,7 @@
 ### Android
 ##### Rx
 - [droidcon NYC 2017 - Advanced Networking with RxJava + Retrofit](https://www.youtube.com/watch?v=q4eK3VFhnA0)
+- [Managing State with RxJava by Jake Wharton](https://www.youtube.com/watch?v=0IKHxjkgop4)
 
 ##### Storage
 - [droidcon NYC 2017 - The Resurgence of SQL](https://www.youtube.com/watch?v=4eUuD7LsqMs)
