@@ -7,6 +7,9 @@
 
 ##### Java
 - [Design Patterns in the Light of Lambda Expressions by Subramaniam](https://www.youtube.com/watch?v=e4MT_OguDKg)
+
+##### Rx
+- [GOTO 2013 • Functional Reactive Programming with RxJava • Ben Christensen](https://www.youtube.com/watch?v=_t06LRX0DV0)
 - [Reactive Programming in Java by Venkat Subramaniam](https://www.youtube.com/watch?v=f3acAsSZPhU)
 
 ##### Architecture
