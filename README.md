@@ -7,6 +7,7 @@
 
 ##### Java
 - [Design Patterns in the Light of Lambda Expressions by Subramaniam](https://www.youtube.com/watch?v=e4MT_OguDKg)
+- [https://www.youtube.com/watch?v=f3acAsSZPhU](https://www.youtube.com/watch?v=f3acAsSZPhU)
 
 ##### Architecture
 - [Robert "Uncle Bob" Martin - Architecture: The Lost Years](https://www.youtube.com/watch?v=HhNIttd87xs)
