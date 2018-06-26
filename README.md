@@ -1,4 +1,5 @@
 # My Android Watchlist
+This is my goto list for sharpening Android dev fundamentals.
 
 ### Fundamentals
 ##### Kotlin
@@ -28,3 +29,4 @@
 
 ##### Storage
 - [droidcon NYC 2017 - The Resurgence of SQL](https://www.youtube.com/watch?v=4eUuD7LsqMs)
+- [How to reactively load and cache data without even trying by Mike Nakhimovich](https://www.youtube.com/watch?v=G1MebI2k9aA)
