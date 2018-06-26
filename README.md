@@ -16,10 +16,10 @@ This is my goto list for sharpening Android dev fundamentals.
 
 ### Architecture
 - [Robert "Uncle Bob" Martin - Architecture: The Lost Years](https://www.youtube.com/watch?v=HhNIttd87xs)
+- [Android application architecture: Get ready for the next billion! - Google I/O 2016](https://www.youtube.com/watch?v=70WqJxymPr8)
 
 ### Design
 - [Core Design Principles for Software Developers by Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI)
-
 
 ### Storage
 - [GOTO 2012 • Introduction to NoSQL • Martin Fowler](https://www.youtube.com/watch?v=qI_g07C_Q5I)
