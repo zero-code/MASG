@@ -14,6 +14,9 @@ This is my goto list for sharpening Android dev fundamentals.
 - [droidcon NYC 2017 - Advanced Networking with RxJava + Retrofit](https://www.youtube.com/watch?v=q4eK3VFhnA0)
 - [Managing State with RxJava by Jake Wharton](https://www.youtube.com/watch?v=0IKHxjkgop4)
 
+### Threading
+- [Understanding Android Threading](https://www.youtube.com/watch?v=0Z5MZ0jL2BM)
+
 ### Architecture
 - [Robert "Uncle Bob" Martin - Architecture: The Lost Years](https://www.youtube.com/watch?v=HhNIttd87xs)
 - [Android application architecture: Get ready for the next billion! - Google I/O 2016](https://www.youtube.com/watch?v=70WqJxymPr8)
