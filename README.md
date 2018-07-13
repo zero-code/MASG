@@ -1,4 +1,4 @@
-# My Android Watchlist
+# My Android Study Guide
 This is my goto list for sharpening Android dev fundamentals.
 
 ### Kotlin
