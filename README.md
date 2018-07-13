@@ -20,7 +20,6 @@ This is my goto list for sharpening Android dev fundamentals.
 
 ### Design
 - [Core Design Principles for Software Developers by Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI)
-- [Hammock Driven Development - Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc&feature=youtu.be)
 - [This one simple change for better class naming will blow your mind](https://blog.novoda.com/better-class-naming/#fn1)
 
 ### Storage
@@ -30,3 +29,6 @@ This is my goto list for sharpening Android dev fundamentals.
 
 ### Testing
 - [J.B. Rainsberger - Integrated Tests Are A Scam](https://vimeo.com/80533536)
+
+### Thinking
+- [Hammock Driven Development - Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc&feature=youtu.be)
