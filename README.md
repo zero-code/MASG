@@ -35,4 +35,7 @@ This is my goto list for sharpening Android dev fundamentals.
 
 ### Thinking
 - [Hammock Driven Development - Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc&feature=youtu.be)
+
+### Peopleware
 - [Ever Wanted to Get Revenge? Try This Instead](https://www.nytimes.com/2018/07/19/smarter-living/how-to-turn-toxic-emotions-into-positive-actions.html)
+- [What Burdens Is That Other Person Carrying?](https://www.nytimes.com/2018/07/02/your-money/ask-yourself-this-what-burdens-is-that-other-person-carrying.html)
