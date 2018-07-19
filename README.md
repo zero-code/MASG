@@ -35,3 +35,4 @@ This is my goto list for sharpening Android dev fundamentals.
 
 ### Thinking
 - [Hammock Driven Development - Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc&feature=youtu.be)
+- [Ever Wanted to Get Revenge? Try This Instead](https://www.nytimes.com/2018/07/19/smarter-living/how-to-turn-toxic-emotions-into-positive-actions.html)
