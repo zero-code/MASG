@@ -24,6 +24,7 @@ This is my goto list for sharpening Android dev fundamentals.
 ### Design
 - [Core Design Principles for Software Developers by Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI)
 - [This one simple change for better class naming will blow your mind](https://blog.novoda.com/better-class-naming/#fn1)
+- [Domain-Driven Design: Hidden Lessons from the Big Blue Book - Nick Tune](https://www.youtube.com/watch?v=m_e36bBQxrk)
 
 ### Storage
 - [GOTO 2012 • Introduction to NoSQL • Martin Fowler](https://www.youtube.com/watch?v=qI_g07C_Q5I)
