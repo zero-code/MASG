@@ -35,7 +35,8 @@ This is my goto list for sharpening Android dev fundamentals.
 - [Understanding Android Threading](https://www.youtube.com/watch?v=0Z5MZ0jL2BM)
 
 ### Thinking
-- [Hammock Driven Development - Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc&feature=youtu.be)
+- [Hammock Driven Development - Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc)
+- [GOTO 2016 • The Error of Our Ways • Kevlin Henney](https://www.youtube.com/watch?v=IiGXq3yY70o)
 
 ### Peopleware
 - [Ever Wanted to Get Revenge? Try This Instead](https://www.nytimes.com/2018/07/19/smarter-living/how-to-turn-toxic-emotions-into-positive-actions.html)
