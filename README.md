@@ -38,6 +38,7 @@ This is my goto list for sharpening Android dev fundamentals.
 - [Hammock Driven Development - Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc)
 - [GOTO 2016 • The Error of Our Ways • Kevlin Henney](https://www.youtube.com/watch?v=IiGXq3yY70o)
 - [Rocky Mountain Ruby 2017 - Livable Code by Sarah Mei](https://www.youtube.com/watch?v=8_UoDmJi7U8)
+- [GOTO 2017 • Programming Across Paradigms • Anjana Vakil](https://www.youtube.com/watch?v=Pg3UeB-5FdA)
 
 ### Peopleware
 - [Ever Wanted to Get Revenge? Try This Instead](https://www.nytimes.com/2018/07/19/smarter-living/how-to-turn-toxic-emotions-into-positive-actions.html)
