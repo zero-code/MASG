@@ -41,5 +41,4 @@ This is my goto list for sharpening Android dev fundamentals.
 - [GOTO 2017 • Programming Across Paradigms • Anjana Vakil](https://www.youtube.com/watch?v=Pg3UeB-5FdA)
 
 ### Peopleware
-- [Ever Wanted to Get Revenge? Try This Instead](https://www.nytimes.com/2018/07/19/smarter-living/how-to-turn-toxic-emotions-into-positive-actions.html)
 - [What Burdens Is That Other Person Carrying?](https://www.nytimes.com/2018/07/02/your-money/ask-yourself-this-what-burdens-is-that-other-person-carrying.html)
