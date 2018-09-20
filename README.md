@@ -1,5 +1,5 @@
 # My Android Study Guide
-This is my goto list for sharpening Android dev fundamentals.
+This is my goto list for sharpening Android and programming fundamentals.
 
 ### Architecture
 - [Robert "Uncle Bob" Martin - Architecture: The Lost Years](https://www.youtube.com/watch?v=HhNIttd87xs)
