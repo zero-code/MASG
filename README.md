@@ -39,6 +39,7 @@ This is my goto list for sharpening Android and programming fundamentals.
 - [GOTO 2016 • The Error of Our Ways • Kevlin Henney](https://www.youtube.com/watch?v=IiGXq3yY70o)
 - [Rocky Mountain Ruby 2017 - Livable Code by Sarah Mei](https://www.youtube.com/watch?v=8_UoDmJi7U8)
 - [GOTO 2017 • Programming Across Paradigms • Anjana Vakil](https://www.youtube.com/watch?v=Pg3UeB-5FdA)
+- [Kent Beck — Summarizing the Beauty in Code](https://www.youtube.com/watch?v=tM1iOJsR7p4)
 
 ### Peopleware
 - [What Burdens Is That Other Person Carrying?](https://www.nytimes.com/2018/07/02/your-money/ask-yourself-this-what-burdens-is-that-other-person-carrying.html)
