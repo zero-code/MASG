@@ -42,4 +42,4 @@ This is my goto list for sharpening Android and programming fundamentals.
 - [Kent Beck — Summarizing the Beauty in Code](https://www.youtube.com/watch?v=tM1iOJsR7p4)
 
 ### Peopleware
-- [What Burdens Is That Other Person Carrying?](https://www.nytimes.com/2018/07/02/your-money/ask-yourself-this-what-burdens-is-that-other-person-carrying.html)
+- [GOTO 2018 • Politics & Hierarchy: How We Create It & How to Stop • Katherine Kirk](https://www.youtube.com/watch?v=jQlVgh1B22g)
