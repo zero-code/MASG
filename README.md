@@ -40,6 +40,7 @@ This is my goto list for sharpening Android and programming fundamentals.
 - [Rocky Mountain Ruby 2017 - Livable Code by Sarah Mei](https://www.youtube.com/watch?v=8_UoDmJi7U8)
 - [GOTO 2017 • Programming Across Paradigms • Anjana Vakil](https://www.youtube.com/watch?v=Pg3UeB-5FdA)
 - [Kent Beck — Summarizing the Beauty in Code](https://www.youtube.com/watch?v=tM1iOJsR7p4)
+- [Steve Yegge - Done and gets things smart](https://steve-yegge.blogspot.com/2008/06/done-and-gets-things-smart.html)
 
 ### Peopleware
 - [GOTO 2018 • Politics & Hierarchy: How We Create It & How to Stop • Katherine Kirk](https://www.youtube.com/watch?v=jQlVgh1B22g)
