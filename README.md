@@ -21,6 +21,7 @@ This is my goto list for sharpening Android and programming fundamentals.
 ### Kotlin
 - [Kotlin for Java Programmers by Venkat Subramaniam](https://www.youtube.com/watch?v=7EVXypZDOos)
 - [KotlinConf 2017 - Introduction to Coroutines by Roman Elizarov](https://www.youtube.com/watch?v=_hfBv0a09Jc)
+- [KotlinConf 2018 - Exploring Coroutines in Kotlin by Venkat Subramariam](https://www.youtube.com/watch?v=jT2gHPQ4Z1Q)
 
 ### Java
 - [Design Patterns in the Light of Lambda Expressions by Subramaniam](https://www.youtube.com/watch?v=e4MT_OguDKg)
